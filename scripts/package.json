@@ -1,0 +1,13 @@
+{
+  "name": "mcat-notion-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fetches the MCAT study log from Notion and writes data/mcat.json for the site.",
+  "scripts": {
+    "sync": "node fetch-notion.mjs"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}

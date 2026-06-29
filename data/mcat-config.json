@@ -1,0 +1,78 @@
+{
+  "_comment": "Curated MCAT planning data. Hand-edit this file freely — the Notion sync (GitHub Action) only overwrites data/mcat.json, never this file.",
+  "examDate": "2026-09-03",
+  "targetScore": 512,
+  "carsNote": "UWorld CARS runs ~+15% above the question-bank average. The lower AAMC CARS scores reflect a style-adaptation gap (AAMC's denser, more abstract passages), not a comprehension deficit. Treat AAMC CARS as the calibration target.",
+  "studyTools": [
+    "UWorld — science Qbank + CARS",
+    "AAMC Full-Length exams",
+    "AAMC Question Packs",
+    "AAMC Section Bank",
+    "Anki"
+  ],
+  "topicPriority": {
+    "bio_biochem": [
+      "Enzymes",
+      "Metabolic Reactions",
+      "Genetics and Evolution",
+      "Amino Acids and Proteins",
+      "Endocrine and Nervous Systems",
+      "Molecular Biology"
+    ],
+    "gen_org_chem": [
+      "Thermodynamics, Kinetics & Gas Laws",
+      "Solutions and Electrochemistry",
+      "Introduction to Organic Chemistry",
+      "Functional Groups and Their Reactions"
+    ]
+  },
+  "mustRedo": [
+    { "topic": "Enzymes", "subject": "bio_biochem", "priority": 1, "ids": ["403131", "403132", "403133", "403134", "403360", "403361", "403362", "403263"] },
+    { "topic": "Metabolic Reactions", "subject": "bio_biochem", "priority": 2, "ids": ["403191", "403192", "403193", "403194", "403195"] },
+    { "topic": "Genetics and Evolution", "subject": "bio_biochem", "priority": 3, "ids": ["400208", "400209", "400210", "400211", "400212", "400213"] },
+    { "topic": "Amino Acids and Proteins", "subject": "bio_biochem", "priority": 4, "ids": ["402379", "402380"] },
+    { "topic": "Endocrine and Nervous Systems", "subject": "bio_biochem", "priority": 5, "ids": ["400976", "400977"] },
+    { "topic": "Thermodynamics, Kinetics & Gas Laws", "subject": "gen_org_chem", "priority": 6, "ids": ["403763", "403764", "403765", "403766", "403767"] },
+    { "topic": "Solutions and Electrochemistry", "subject": "gen_org_chem", "priority": 7, "ids": ["403503", "403504", "403505", "403506"] },
+    { "topic": "Introduction to Organic Chemistry", "subject": "gen_org_chem", "priority": 8, "ids": ["400293", "400294"] }
+  ],
+  "anki": {
+    "dailyTargetCards": 1000,
+    "note": "Target is a guide, not a quota — edit freely. Anki volume is read from any Notion page that contains a line like 'Anki: Studied N cards in M minutes'."
+  },
+  "weeklyPlan": [
+    { "day": "Mon", "items": [
+      { "tag": "bio", "text": "UWorld Bio/Biochem set (40q) — Enzymes + Metabolic priority" },
+      { "tag": "cars", "text": "AAMC CARS passage set (5–7 passages)" },
+      { "tag": "anki", "text": "Anki — full review" }
+    ]},
+    { "day": "Tue", "items": [
+      { "tag": "chem", "text": "UWorld Gen/Org Chem set (40q) — Thermo/Kinetics priority" },
+      { "tag": "cars", "text": "AAMC CARS passage set" },
+      { "tag": "aamc", "text": "Redo block — work the must-redo list" }
+    ]},
+    { "day": "Wed", "items": [
+      { "tag": "bio", "text": "UWorld Bio/Biochem set (40q) — Genetics + Amino Acids" },
+      { "tag": "aamc", "text": "AAMC Section Bank (B/B)" },
+      { "tag": "anki", "text": "Anki — full review" }
+    ]},
+    { "day": "Thu", "items": [
+      { "tag": "chem", "text": "UWorld Gen/Org Chem set (40q) — Solutions/Electrochem" },
+      { "tag": "cars", "text": "AAMC CARS passage set" },
+      { "tag": "aamc", "text": "Redo block — work the must-redo list" }
+    ]},
+    { "day": "Fri", "items": [
+      { "tag": "aamc", "text": "AAMC Question Pack (mixed sciences)" },
+      { "tag": "cars", "text": "AAMC CARS passage set" },
+      { "tag": "anki", "text": "Anki — full review" }
+    ]},
+    { "day": "Sat", "items": [
+      { "tag": "aamc", "text": "AAMC Full-Length (alt. weeks) — or half-length + timing drills" },
+      { "tag": "anki", "text": "Anki — light" }
+    ]},
+    { "day": "Sun", "items": [
+      { "tag": "bio", "text": "Deep review — wrong questions + weak-topic content (Enzymes)" },
+      { "tag": "cars", "text": "Untimed CARS review — focus AAMC question types" }
+    ]}
+  ]
+}

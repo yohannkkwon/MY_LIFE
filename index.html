@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yohan Kwon</title>
+  <meta name="description" content="Yohan Kwon — UC San Diego · Data Science & Biochemistry · Pre-med. MCAT prep dashboard, volunteering, school, and extracurriculars." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#mcat">
+        <span class="brand-mark">YK</span>
+        <span class="brand-text">
+          <span class="brand-name">Yohan Kwon</span>
+          <span class="brand-sub">UC San Diego · Data Science &amp; Biochem · Pre-med</span>
+        </span>
+      </a>
+      <nav class="tabs" id="tabs" aria-label="Primary">
+        <button class="tab" data-tab="mcat" aria-selected="true">MCAT</button>
+        <button class="tab" data-tab="volunteer" aria-selected="false">Volunteer</button>
+        <button class="tab" data-tab="school" aria-selected="false">School</button>
+        <button class="tab" data-tab="extracurriculars" aria-selected="false">Extracurriculars</button>
+      </nav>
+      <button class="theme-toggle" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">◐</button>
+    </div>
+    <div class="tab-indicator" id="tabIndicator" aria-hidden="true"></div>
+  </header>
+
+  <main id="main" class="wrap">
+    <!-- MCAT -->
+    <section class="panel" id="panel-mcat" data-panel="mcat"></section>
+    <!-- Volunteer -->
+    <section class="panel" id="panel-volunteer" data-panel="volunteer" hidden></section>
+    <!-- School -->
+    <section class="panel" id="panel-school" data-panel="school" hidden></section>
+    <!-- Extracurriculars -->
+    <section class="panel" id="panel-extracurriculars" data-panel="extracurriculars" hidden></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span id="dataStamp" class="muted">Loading…</span>
+      <span class="muted">Built with plain HTML/CSS/JS · data synced from Notion</span>
+    </div>
+  </footer>
+
+  <script src="js/charts.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/mcat.js"></script>
+  <script src="js/volunteer.js"></script>
+  <script src="js/school.js"></script>
+  <script src="js/extracurriculars.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

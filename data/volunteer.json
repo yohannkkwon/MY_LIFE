@@ -1,0 +1,20 @@
+{
+  "_comment": "Volunteer shifts — hand-edit freely. status: 'completed' counts toward logged hours; 'upcoming' shows in the schedule. Scripps alternates ICU (3h) / ED (4h) by week; RHA shifts are 10.5h. Replace the seeded dates with your real ones.",
+  "orgs": {
+    "Scripps Health": { "color": "var(--accent)", "roles": { "ICU": 3, "ED": 4 } },
+    "RHA": { "color": "var(--blue)", "roles": { "Shift": 10.5 } }
+  },
+  "shifts": [
+    { "date": "2026-05-30", "org": "Scripps Health", "role": "ICU", "hours": 3, "status": "completed" },
+    { "date": "2026-06-06", "org": "Scripps Health", "role": "ED", "hours": 4, "status": "completed" },
+    { "date": "2026-06-07", "org": "RHA", "role": "Shift", "hours": 10.5, "status": "completed" },
+    { "date": "2026-06-13", "org": "Scripps Health", "role": "ICU", "hours": 3, "status": "completed" },
+    { "date": "2026-06-20", "org": "Scripps Health", "role": "ED", "hours": 4, "status": "completed" },
+    { "date": "2026-06-21", "org": "RHA", "role": "Shift", "hours": 10.5, "status": "completed" },
+    { "date": "2026-07-04", "org": "Scripps Health", "role": "ICU", "hours": 3, "status": "upcoming" },
+    { "date": "2026-07-11", "org": "Scripps Health", "role": "ED", "hours": 4, "status": "upcoming" },
+    { "date": "2026-07-12", "org": "RHA", "role": "Shift", "hours": 10.5, "status": "upcoming" },
+    { "date": "2026-07-18", "org": "Scripps Health", "role": "ICU", "hours": 3, "status": "upcoming" },
+    { "date": "2026-07-25", "org": "Scripps Health", "role": "ED", "hours": 4, "status": "upcoming" }
+  ]
+}

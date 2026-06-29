@@ -1,0 +1,13 @@
+# dependencies (installed fresh by the GitHub Action)
+node_modules/
+scripts/node_modules/
+scripts/package-lock.json
+
+# os / editor
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# local preview server logs
+httpd.log

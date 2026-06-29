@@ -1,0 +1,2189 @@
+{
+  "generatedAt": "2026-06-29T01:48:27.795Z",
+  "source": "notion",
+  "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
+  "sessionCount": 10,
+  "sessions": [
+    {
+      "date": "June 18",
+      "isoDate": "2026-06-18",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+9%)",
+          "marginPct": 9,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "403242",
+              "topic": "Digestion and Excretion",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402736",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402109",
+              "topic": "Amino Acids and Proteins",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401899",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401900",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401902",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401904",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402507",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401615",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401616",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401619",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402509",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403471",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403383",
+              "topic": "Digestion and Excretion",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403714",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403809",
+              "topic": "Cellular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403869",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401504",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401505",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": null,
+          "rawHeader": "CARS (+1%)",
+          "marginPct": 1,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "402800",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "3d. External Scenario Support or Challenge",
+              "idSuspect": false
+            },
+            {
+              "id": "402802",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "3g. Identifying Analogies",
+              "idSuspect": false
+            },
+            {
+              "id": "403031",
+              "topic": "Humanities",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "2c. Extent of Passage Evidence",
+              "idSuspect": false
+            },
+            {
+              "id": "403032",
+              "topic": "Humanities",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "3g. Identifying Analogies",
+              "idSuspect": false
+            },
+            {
+              "id": "402247",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "2f. Drawing Additional Inferences",
+              "idSuspect": false
+            },
+            {
+              "id": "402248",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "2a. Logical Relationships within Passage",
+              "idSuspect": false
+            },
+            {
+              "id": "402917",
+              "topic": "Humanities",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "2c. Extent of Passage Evidence",
+              "idSuspect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "June 19",
+      "isoDate": "2026-06-19",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": null,
+          "rawHeader": "General/Organic Chemistry (+11%)",
+          "marginPct": 11,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "400196",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403975",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402105",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403959",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403839",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403822",
+              "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403824",
+              "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403825",
+              "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403826",
+              "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400239",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400241",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400243",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400244",
+              "topic": "Solutions and Electrochemistry",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403531",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403910",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403915",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": null,
+          "rawHeader": "CARS (+28%)",
+          "marginPct": 28,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "402296",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "1d. Implicit Claims or Assumptions",
+              "idSuspect": false
+            },
+            {
+              "id": "402297",
+              "topic": "Social Sciences",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": "2a. Logical Relationships within Passage",
+              "idSuspect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "June 21",
+      "isoDate": "2026-06-21",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+8%)",
+          "marginPct": 8,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "401134",
+              "topic": "Amino Acids and Proteins",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401137",
+              "topic": "Amino Acids and Proteins",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401422",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401007",
+              "topic": "Carbohydrates, Nucleotides, and Lipids",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401008",
+              "topic": "Carbohydrates, Nucleotides, and Lipids",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401706",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401708",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402030",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403203",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402447",
+              "topic": "Enzymes",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402451",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402328",
+              "topic": "Genetics and Evolution",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403443",
+              "topic": "Biochemistry Lab Techniques",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403444",
+              "topic": "Biochemistry Lab Techniques",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401520",
+              "topic": "Metabolic Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401470",
+              "topic": "Cellular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401471",
+              "topic": "Cellular Biology",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401473",
+              "topic": "Cellular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401244",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400844",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400845",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400848",
+              "topic": "Genetics and Evolution",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403708",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403710",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin CARS (+8%)",
+          "marginPct": 8,
+          "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 22",
+      "isoDate": "2026-06-22",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": null,
+          "rawHeader": "General/Organic Chemistry (+12%) - 80%",
+          "marginPct": 12,
+          "scorePct": 80,
+          "questions": [
+            {
+              "id": "403503",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403505",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403506",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402637",
+              "topic": "Solutions and Electrochemistry",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401926",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402091",
+              "topic": "Interactions of Chemical Substances",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402069",
+              "topic": "Interactions of Chemical Substances",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401612",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402137",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401553",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401554",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401780",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402306",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403135",
+              "topic": "Interactions of Chemical Substances",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403138",
+              "topic": "Interactions of Chemical Substances",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC (73%)",
+          "marginPct": null,
+          "scorePct": 73,
+          "questions": []
+        },
+        {
+          "type": "physics",
+          "label": "Physics",
+          "provider": "AAMC",
+          "rawHeader": "PHYS AAMC",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "401278",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "June 23",
+      "isoDate": "2026-06-23",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+6%) - 69%",
+          "marginPct": 6,
+          "scorePct": 69,
+          "questions": [
+            {
+              "id": "403204",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403143",
+              "topic": "Metabolic Reactions",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400428",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400429",
+              "topic": "Molecular Biology",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400431",
+              "topic": "Molecular Biology",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403453",
+              "topic": "Reproduction",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403455",
+              "topic": "Reproduction",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402505",
+              "topic": "Circulation and Respiration",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402057",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400553",
+              "topic": "Molecular Biology",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403360",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403362",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403131",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403132",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403133",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403134",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402348",
+              "topic": "Musculoskeletal System",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400664",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400665",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400666",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404012",
+              "topic": "Amino Acids and Proteins",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402438",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC (68%) - (-5%)",
+          "marginPct": -5,
+          "scorePct": 68,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 24",
+      "isoDate": "2026-06-24",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": null,
+          "rawHeader": "General/Organic Chemistry (+0%) - 68%",
+          "marginPct": 0,
+          "scorePct": 68,
+          "questions": [
+            {
+              "id": "400106",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400291",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400293",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400294",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402292",
+              "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401152",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401155",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402316",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401035",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401036",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403917",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401712",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401716",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402618",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404047",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402351",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403624",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403763",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403764",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403765",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403766",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403767",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC (49%)",
+          "marginPct": null,
+          "scorePct": 49,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 25",
+      "isoDate": "2026-06-25",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+10%) - 69%",
+          "marginPct": 10,
+          "scorePct": 69,
+          "questions": [
+            {
+              "id": "403473",
+              "topic": "Digestion and Excretion",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402598",
+              "topic": "Digestion and Excretion",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402047",
+              "topic": "Enzymes",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402050",
+              "topic": "Enzymes",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402673",
+              "topic": "Skin and Immune Systems",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403648",
+              "topic": "Cellular Biology",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403650",
+              "topic": "Cellular Biology",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403651",
+              "topic": "Cellular Biology",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402647",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402506",
+              "topic": "Enzymes",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401957",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400974",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400976",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400977",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403191",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403193",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403195",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402541",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403570",
+              "topic": "Carbohydrates, Nucleotides, and Lipids",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402117",
+              "topic": "Enzymes",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403750",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401988",
+              "topic": "Carbohydrates, Nucleotides, and Lipids",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC DIAGNOSTIC (-1%) - 48%",
+          "marginPct": -1,
+          "scorePct": 48,
+          "questions": []
+        },
+        {
+          "type": "physics",
+          "label": "Physics",
+          "provider": null,
+          "rawHeader": "PHYSICS (Light and Sound)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "404504",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404506",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404508",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403995",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403352",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403357",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402484",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402433",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402435",
+              "topic": "",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "June 26",
+      "isoDate": "2026-06-26",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": null,
+          "rawHeader": "General/Organic Chemistry (+7%) - 71%",
+          "marginPct": 7,
+          "scorePct": 71,
+          "questions": [
+            {
+              "id": "403333",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403774",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403778",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404108",
+              "topic": "Interactions of Chemical Substances",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402639",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402644",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403719",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403720",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403721",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403723",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401253",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401254",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401255",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401257",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401105",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401279",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401281",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "491282",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": true
+            },
+            {
+              "id": "400570",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403174",
+              "topic": "Thermodynamics, Kinetics & Gas Laws",
+              "status": "correct",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC DIAGNOSTIC (+11%) - 59%",
+          "marginPct": 11,
+          "scorePct": 59,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 27",
+      "isoDate": "2026-06-27",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+12%) - 71%",
+          "marginPct": 12,
+          "scorePct": 71,
+          "questions": [
+            {
+              "id": "401463",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "forgot the concept",
+              "uworldAvgPct": 35,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402379",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "need to fully memorize the concept",
+              "uworldAvgPct": 51,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402380",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "confused by the concept; flipped the reasoning",
+              "uworldAvgPct": 39,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403838",
+              "topic": "Carbohydrates, Nucleotides, and Lipids",
+              "status": "wrong",
+              "note": "confused by the concept; flipped the reasoning",
+              "uworldAvgPct": 62,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403831",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "didn’t read properly; answer was in the text",
+              "uworldAvgPct": 53,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403836",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 16,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403091",
+              "topic": "Digestion and Excretion",
+              "status": "wrong",
+              "note": "forgot the concept",
+              "uworldAvgPct": 69,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403263",
+              "topic": "Enzymes",
+              "status": "wrong",
+              "note": "didn’t read the axis of the graphs provided properly",
+              "uworldAvgPct": 56,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400211",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "didn’t read properly; answer was in the text",
+              "uworldAvgPct": 32,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400208",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "forgot concept & didn’t read properly",
+              "uworldAvgPct": 35,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400209",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "neglected/forgot the concept; didn’t read properly",
+              "uworldAvgPct": 53,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400210",
+              "topic": "Genetics and Evolution",
+              "status": "correct",
+              "note": "forgot the concept",
+              "uworldAvgPct": 62,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400212",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 36,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400213",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 35,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402033",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "forgot the concept",
+              "uworldAvgPct": 37,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404000",
+              "topic": "Metabolic Reactions",
+              "status": "correct",
+              "note": "crossed out 2 options, educated guess out of 2",
+              "uworldAvgPct": 76,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404001",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 25,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404193",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "correct",
+              "note": "knowledge gap",
+              "uworldAvgPct": 55,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "40165",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 24,
+              "carsSkill": null,
+              "idSuspect": true
+            },
+            {
+              "id": "403728",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": "didn’t read the passage properly",
+              "uworldAvgPct": 65,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC DIAGNOSTIC (+18%) - 77%",
+          "marginPct": 18,
+          "scorePct": 77,
+          "questions": []
+        },
+        {
+          "type": "physics",
+          "label": "Physics",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD PHYSICS",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "400009",
+              "topic": "Fluids",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400010",
+              "topic": "Fluids",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400012",
+              "topic": "Fluids",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "June 28 - Break",
+      "isoDate": "2026-06-28",
+      "weekday": "Sun",
+      "isBreak": true,
+      "anki": {
+        "cards": 1387,
+        "minutes": 127
+      },
+      "sections": []
+    }
+  ],
+  "anomalies": [
+    {
+      "pageTitle": "June 27",
+      "kind": "suspicious_id",
+      "detail": "Question id \"40165\" in the BIO/BIOCHEM section (topic 'Endocrine and Nervous Systems', status wrong, uworldAvgPct 24) is only 5 digits. Real UWorld ids are 6 digits in the 40xxxx range, so this is almost certainly a truncated/typo id.",
+      "suggestedFix": "Verify against source; likely should be a 6-digit id such as \"401650\" (or another 4016xx value). Do NOT auto-change — flag for human correction."
+    },
+    {
+      "pageTitle": "June 26",
+      "kind": "suspicious_id",
+      "detail": "Question id \"491282\" in the General/Organic Chemistry section starts with 49 rather than 40. It sits between ids 401281 and 400570 (topic 'Solutions and Electrochemistry'), strongly implying a digit-transposition/typo.",
+      "suggestedFix": "Likely correct value is \"401282\" (40 prefix). Verify against source before changing; flag for human correction."
+    },
+    {
+      "pageTitle": "June 24 / June 21 / June 18 / June 23 / June 25 / June 27",
+      "kind": "topic_naming",
+      "detail": "Same topic spelled inconsistently across pages. 'Endocrine and Nervous Systems' (June 21 ids 401706/401708; June 27 ids 404193, 40165) vs 'Endocrine and Nervous System' (June 23 ids 400664/400665/400666; June 25 ids 400974/400976/400977; June 27 id 403728). Also 'Introduction to Organic Chemistry' vs 'Introduction of Organic Chemistry' (June 24 id 400293 uses 'of'). These will fragment topic grouping on a dashboard.",
+      "suggestedFix": "Standardize to canonical 'Endocrine and Nervous Systems' (plural) and 'Introduction to Organic Chemistry' ('to')."
+    },
+    {
+      "pageTitle": "June 22 / June 26",
+      "kind": "topic_naming",
+      "detail": "Topic 'Thermodynamics, Kinetics & Gas Laws' (canonical, used on June 24 multiple times and elsewhere) appears as 'Thermodynamics, Kinetics & Gas Law' (missing trailing 's') on June 22 (id 401780) and June 26 (id 403174).",
+      "suggestedFix": "Standardize to canonical 'Thermodynamics, Kinetics & Gas Laws' (plural 'Laws')."
+    },
+    {
+      "pageTitle": "June 18",
+      "kind": "parse_inconsistency",
+      "detail": "CARS question id 402917 has carsSkill '2c. Extend of Passage Evidence' — 'Extend' is a typo. The same skill code on id 403031 (same page) reads '2c. Extent of Passage Evidence'. Same code, two spellings, will split a CARS-skill breakdown.",
+      "suggestedFix": "Standardize to '2c. Extent of Passage Evidence'."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "General/Organic Chemistry question id 403915 has a malformed carsSkill value with a leading paren: '(2b. Calculations Using Scientific Reasoning'. The note documents it was preserved as written, but for a dashboard this breaks exact-match grouping with the well-formed '2b. Calculations Using Scientific Reasoning' (id 400243, same page).",
+      "suggestedFix": "Strip the leading '(' so it reads '2b. Calculations Using Scientific Reasoning'."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "Within the General/Organic Chemistry section the same skill code '3e.' maps to two different label texts: id 403825 has '3e. Applying Scientific Concepts to Research Design' while id 400239 has '3e. Applying Scientific Concepts to Research and Design' (extra 'and'). Same code, divergent labels.",
+      "suggestedFix": "Pick one canonical label for code '3e.' and apply to both (verify the official AAMC skill wording)."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "All questions in the gen_org_chem section on this page carry CARS-style carsSkill codes (e.g. '2a. Significance of Scientific Concepts'), which is unusual for a chemistry section. The note acknowledges this, but a dashboard that keys CARS-skill analytics off section type or expects carsSkill only on CARS sections may double-count or mis-bucket these.",
+      "suggestedFix": "Confirm whether these skill codes belong on a chemistry section; either relabel the section or exclude these from CARS-skill aggregations."
+    },
+    {
+      "pageTitle": "June 22 / June 25",
+      "kind": "parse_inconsistency",
+      "detail": "Physics questions have empty topic strings: June 22 PHYS AAMC id 401278 has topic '' , and June 25 PHYSICS (Light and Sound) ids 404504/404506/404508/403995/403352/403357/402484/402433/402435 all have topic ''. June 27 UWORLD PHYSICS by contrast populated topic 'Fluids'. Empty topics will create a blank bucket in any topic-grouped view.",
+      "suggestedFix": "Backfill physics topics (e.g. 'Light and Sound' from the June 25 section header) or exclude empty-topic physics questions from topic aggregation."
+    },
+    {
+      "pageTitle": "June 23",
+      "kind": "score_parse",
+      "detail": "CARS AAMC section has marginPct -5 with scorePct 68 (header 'CARS AAMC (68%) - (-5%)'). This is a legitimate negative margin (a score decline), not a parse error, and the absolute score is in range — flagging only to confirm the dashboard treats negative margins correctly rather than rejecting them.",
+      "suggestedFix": "No data change needed. Ensure margin handling allows negative values; -5% margin with 68% base is valid."
+    },
+    {
+      "pageTitle": "June 18 / June 19 / June 21",
+      "kind": "score_parse",
+      "detail": "Early sessions have marginPct present but scorePct null (e.g. June 18 BIO/BIOCHEM marginPct 9, scorePct null; June 19 gen_org_chem marginPct 11, scorePct null; June 21 marginPct 8, scorePct null), whereas June 22 onward provide both. This is consistent with the source headers only listing margins on those days (no error in parsing), but it means margin-over-time and absolute-score-over-time charts will have gaps for these dates.",
+      "suggestedFix": "No data change — margins genuinely lack a base in the source. Document the gap so dashboards render missing absolute scores as null rather than zero."
+    }
+  ]
+}
