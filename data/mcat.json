@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T02:22:01.820Z",
+  "generatedAt": "2026-06-29T02:41:10.336Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 10,
@@ -189,24 +189,6 @@
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
-            },
-            {
-              "id": "5",
-              "topic": "’-AUG-3’ is the start codon. The tRNA that would bind to this would be 3’-UAC-5’.",
-              "status": "unmarked",
-              "note": null,
-              "uworldAvgPct": null,
-              "carsSkill": null,
-              "idSuspect": true
-            },
-            {
-              "id": "5",
-              "topic": "’-UGA-3’, 5’-UAA-3’, and 5’-UAG-3’ are the stop codons.",
-              "status": "unmarked",
-              "note": null,
-              "uworldAvgPct": null,
-              "carsSkill": null,
-              "idSuspect": true
             }
           ]
         },
@@ -304,7 +286,7 @@
               "id": "400196",
               "topic": "Atomic Theory and Chemical Composition",
               "status": "unmarked",
-              "note": "2a. Significance of Scientific Concepts",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -313,7 +295,7 @@
               "id": "403975",
               "topic": "Functional Groups and Their Reactions",
               "status": "unmarked",
-              "note": "2d. Applying Diagrams to Solve Problems",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -322,7 +304,7 @@
               "id": "402105",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "2e. Additional Conclusions from Knowledge of Scientific Concepts",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -331,7 +313,7 @@
               "id": "403959",
               "topic": "Functional Groups and Their Reactions",
               "status": "unmarked",
-              "note": "1e. New information Applied to Scientific Concepts",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -340,7 +322,7 @@
               "id": "403839",
               "topic": "Introduction to Organic Chemistry",
               "status": "unmarked",
-              "note": "2d. Applying Diagrams to Solve Problems",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -349,7 +331,7 @@
               "id": "403822",
               "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
               "status": "unmarked",
-              "note": "1d. Connecting Passage Information with Scientific Concepts",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -358,7 +340,7 @@
               "id": "403824",
               "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
               "status": "correct",
-              "note": "2f. Effects of Scientific Principles on Experimental Results",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -367,7 +349,7 @@
               "id": "403825",
               "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
               "status": "unmarked",
-              "note": "3e. Applying Scientific Concepts to Research Design",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -376,7 +358,7 @@
               "id": "403826",
               "topic": "Separation Techniques, Spectroscopy, and Analytical Methods",
               "status": "unmarked",
-              "note": "1a. Recognition of Scientific Principles and Concepts",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -385,7 +367,7 @@
               "id": "400239",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "3e. Applying Scientific Concepts to Research and Design",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -394,7 +376,7 @@
               "id": "400241",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "2c. Recall and Use of Scientific Formulas",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -403,7 +385,7 @@
               "id": "400243",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "2b. Calculations Using Scientific Reasoning",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -412,7 +394,7 @@
               "id": "400244",
               "topic": "Solutions and Electrochemistry",
               "status": "correct",
-              "note": "4c. Experimental Results from Data",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -421,7 +403,7 @@
               "id": "403531",
               "topic": "Thermodynamics, Kinetics & Gas Laws",
               "status": "unmarked",
-              "note": "2c. Recall and Use of Scientific Formulas",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -430,7 +412,7 @@
               "id": "403910",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "4a. Additional Conclusions from Question/Passage Graphics",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -439,7 +421,7 @@
               "id": "403915",
               "topic": "Solutions and Electrochemistry",
               "status": "unmarked",
-              "note": "(2b. Calculations Using Scientific Reasoning",
+              "note": null,
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
@@ -869,15 +851,6 @@
               "uworldAvgPct": null,
               "carsSkill": null,
               "idSuspect": false
-            },
-            {
-              "id": "1",
-              "topic": "mol = 1 amu",
-              "status": "unmarked",
-              "note": null,
-              "uworldAvgPct": null,
-              "carsSkill": null,
-              "idSuspect": true
             }
           ]
         },
@@ -2138,18 +2111,79 @@
       "isoDate": "2026-06-28",
       "weekday": "Sun",
       "isBreak": true,
-      "anki": null,
-      "sections": [
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": null,
-          "rawHeader": "Anki",
-          "marginPct": null,
-          "scorePct": null,
-          "questions": []
-        }
-      ]
+      "anki": {
+        "cards": 1387,
+        "minutes": 127
+      },
+      "sections": []
+    }
+  ],
+  "anomalies": [
+    {
+      "pageTitle": "June 27",
+      "kind": "suspicious_id",
+      "detail": "Question id \"40165\" in the BIO/BIOCHEM section (topic 'Endocrine and Nervous Systems', status wrong, uworldAvgPct 24) is only 5 digits. Real UWorld ids are 6 digits in the 40xxxx range, so this is almost certainly a truncated/typo id.",
+      "suggestedFix": "Verify against source; likely should be a 6-digit id such as \"401650\" (or another 4016xx value). Do NOT auto-change — flag for human correction."
+    },
+    {
+      "pageTitle": "June 26",
+      "kind": "suspicious_id",
+      "detail": "Question id \"491282\" in the General/Organic Chemistry section starts with 49 rather than 40. It sits between ids 401281 and 400570 (topic 'Solutions and Electrochemistry'), strongly implying a digit-transposition/typo.",
+      "suggestedFix": "Likely correct value is \"401282\" (40 prefix). Verify against source before changing; flag for human correction."
+    },
+    {
+      "pageTitle": "June 24 / June 21 / June 18 / June 23 / June 25 / June 27",
+      "kind": "topic_naming",
+      "detail": "Same topic spelled inconsistently across pages. 'Endocrine and Nervous Systems' (June 21 ids 401706/401708; June 27 ids 404193, 40165) vs 'Endocrine and Nervous System' (June 23 ids 400664/400665/400666; June 25 ids 400974/400976/400977; June 27 id 403728). Also 'Introduction to Organic Chemistry' vs 'Introduction of Organic Chemistry' (June 24 id 400293 uses 'of'). These will fragment topic grouping on a dashboard.",
+      "suggestedFix": "Standardize to canonical 'Endocrine and Nervous Systems' (plural) and 'Introduction to Organic Chemistry' ('to')."
+    },
+    {
+      "pageTitle": "June 22 / June 26",
+      "kind": "topic_naming",
+      "detail": "Topic 'Thermodynamics, Kinetics & Gas Laws' (canonical, used on June 24 multiple times and elsewhere) appears as 'Thermodynamics, Kinetics & Gas Law' (missing trailing 's') on June 22 (id 401780) and June 26 (id 403174).",
+      "suggestedFix": "Standardize to canonical 'Thermodynamics, Kinetics & Gas Laws' (plural 'Laws')."
+    },
+    {
+      "pageTitle": "June 18",
+      "kind": "parse_inconsistency",
+      "detail": "CARS question id 402917 has carsSkill '2c. Extend of Passage Evidence' — 'Extend' is a typo. The same skill code on id 403031 (same page) reads '2c. Extent of Passage Evidence'. Same code, two spellings, will split a CARS-skill breakdown.",
+      "suggestedFix": "Standardize to '2c. Extent of Passage Evidence'."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "General/Organic Chemistry question id 403915 has a malformed carsSkill value with a leading paren: '(2b. Calculations Using Scientific Reasoning'. The note documents it was preserved as written, but for a dashboard this breaks exact-match grouping with the well-formed '2b. Calculations Using Scientific Reasoning' (id 400243, same page).",
+      "suggestedFix": "Strip the leading '(' so it reads '2b. Calculations Using Scientific Reasoning'."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "Within the General/Organic Chemistry section the same skill code '3e.' maps to two different label texts: id 403825 has '3e. Applying Scientific Concepts to Research Design' while id 400239 has '3e. Applying Scientific Concepts to Research and Design' (extra 'and'). Same code, divergent labels.",
+      "suggestedFix": "Pick one canonical label for code '3e.' and apply to both (verify the official AAMC skill wording)."
+    },
+    {
+      "pageTitle": "June 19",
+      "kind": "parse_inconsistency",
+      "detail": "All questions in the gen_org_chem section on this page carry CARS-style carsSkill codes (e.g. '2a. Significance of Scientific Concepts'), which is unusual for a chemistry section. The note acknowledges this, but a dashboard that keys CARS-skill analytics off section type or expects carsSkill only on CARS sections may double-count or mis-bucket these.",
+      "suggestedFix": "Confirm whether these skill codes belong on a chemistry section; either relabel the section or exclude these from CARS-skill aggregations."
+    },
+    {
+      "pageTitle": "June 22 / June 25",
+      "kind": "parse_inconsistency",
+      "detail": "Physics questions have empty topic strings: June 22 PHYS AAMC id 401278 has topic '' , and June 25 PHYSICS (Light and Sound) ids 404504/404506/404508/403995/403352/403357/402484/402433/402435 all have topic ''. June 27 UWORLD PHYSICS by contrast populated topic 'Fluids'. Empty topics will create a blank bucket in any topic-grouped view.",
+      "suggestedFix": "Backfill physics topics (e.g. 'Light and Sound' from the June 25 section header) or exclude empty-topic physics questions from topic aggregation."
+    },
+    {
+      "pageTitle": "June 23",
+      "kind": "score_parse",
+      "detail": "CARS AAMC section has marginPct -5 with scorePct 68 (header 'CARS AAMC (68%) - (-5%)'). This is a legitimate negative margin (a score decline), not a parse error, and the absolute score is in range — flagging only to confirm the dashboard treats negative margins correctly rather than rejecting them.",
+      "suggestedFix": "No data change needed. Ensure margin handling allows negative values; -5% margin with 68% base is valid."
+    },
+    {
+      "pageTitle": "June 18 / June 19 / June 21",
+      "kind": "score_parse",
+      "detail": "Early sessions have marginPct present but scorePct null (e.g. June 18 BIO/BIOCHEM marginPct 9, scorePct null; June 19 gen_org_chem marginPct 11, scorePct null; June 21 marginPct 8, scorePct null), whereas June 22 onward provide both. This is consistent with the source headers only listing margins on those days (no error in parsing), but it means margin-over-time and absolute-score-over-time charts will have gaps for these dates.",
+      "suggestedFix": "No data change — margins genuinely lack a base in the source. Document the gap so dashboards render missing absolute scores as null rather than zero."
     }
   ]
 }

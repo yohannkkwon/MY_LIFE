@@ -28,6 +28,12 @@ async function listChildren(blockId) {
 
 const textOf = (rich) => (rich || []).map((r) => r.plain_text).join('');
 
+// plain text of any block that carries rich_text (paragraph, heading, list, quote, callout…)
+function blockText(b) {
+  const node = b && b.type ? b[b.type] : null;
+  return node && Array.isArray(node.rich_text) ? textOf(node.rich_text) : '';
+}
+
 function statusFromRich(rich) {
   const run = (rich || []).find((r) => /\d/.test(r.plain_text)) || (rich || [])[0];
   const color = (run && run.annotations && run.annotations.color) || 'default';
@@ -39,11 +45,14 @@ function statusFromRich(rich) {
 function parseQuestion(block, sectionType) {
   const rich = block.numbered_list_item.rich_text;
   const text = textOf(rich).replace(/\s+/g, ' ').trim();
-  const idm = text.match(/^(\d+)/);
-  if (!idm) return null; // empty numbered item
+  // A question starts with a 5–6 digit UWorld id followed by a separator or end.
+  // This rejects concept-note bullets that appear as sibling numbered lists
+  // (e.g. "5'-AUG-3' is the start codon…", "110 Da/AA", "The large intestine…").
+  const idm = text.match(/^(\d{5,6})(?=$|[\s\-–—])/);
+  if (!idm) return null;
   const id = idm[1];
   const status = statusFromRich(rich);
-  let rest = text.slice(idm[0].length).replace(/^[\s\-–—:]+/, '');
+  let rest = text.slice(idm[1].length).replace(/^[\s\-–—:]+/, '');
   let uworldAvgPct = null;
   const avgm = rest.match(/\[\s*(\d+)\s*%\s*\]/);
   if (avgm) { uworldAvgPct = parseInt(avgm[1], 10); rest = rest.replace(avgm[0], '').trim(); }
@@ -93,6 +102,8 @@ async function parsePage(childBlock) {
   const ankiBits = [];
 
   for (const b of blocks) {
+    const bt = blockText(b);
+    if (/anki/i.test(bt)) ankiBits.push(bt);
     if (b.type === 'heading_1') {
       const header = textOf(b.heading_1.rich_text);
       if (current) session.sections.push(current);
@@ -101,11 +112,11 @@ async function parsePage(childBlock) {
       if (b.has_children) {
         const kids = await listChildren(b.id);
         for (const k of kids) {
+          const kt = blockText(k);
+          if (/anki/i.test(kt)) ankiBits.push(kt);
           if (k.type === 'numbered_list_item') {
             const q = parseQuestion(k, current.type);
             if (q) current.questions.push(q);
-          } else if (k.type === 'paragraph') {
-            ankiBits.push(textOf(k.paragraph.rich_text));
           }
         }
       }
@@ -113,10 +124,6 @@ async function parsePage(childBlock) {
       // sibling pattern: items follow a non-toggle heading
       const q = parseQuestion(b, current.type);
       if (q) current.questions.push(q);
-    } else if (b.type === 'paragraph') {
-      ankiBits.push(textOf(b.paragraph.rich_text));
-    } else if (b.type === 'callout') {
-      ankiBits.push(textOf(b.callout.rich_text));
     }
   }
   if (current) session.sections.push(current);
