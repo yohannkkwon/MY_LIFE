@@ -318,3 +318,59 @@ table.data tbody tr:hover { background: var(--surface-2); }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; scroll-behavior: auto; }
 }
+
+/* ============================================================
+   v2 layout — section-organized MCAT + minimal volunteer
+   ============================================================ */
+.dash { display: flex; flex-direction: column; gap: 18px; }
+
+.exam-badge {
+  display: inline-flex; gap: 8px; align-items: center; font-size: 13px; color: var(--text-muted);
+  background: var(--surface-2); border: 1px solid var(--border); padding: 5px 13px; border-radius: 999px;
+}
+.exam-badge b { color: var(--accent-ink); font-weight: 650; }
+
+/* section sub-tabs */
+.subtabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+
+/* weak-topic HTML bars (crisp, readable, no truncation) */
+.weak-list { display: flex; flex-direction: column; gap: 12px; }
+.weakrow { display: grid; grid-template-columns: minmax(160px, 260px) 1fr 46px; align-items: center; gap: 16px; }
+.weaktopic { font-size: 14.5px; font-weight: 540; line-height: 1.3; }
+.weaktopic.prio { color: var(--accent-ink); font-weight: 680; }
+.weakbar { height: 18px; border-radius: 6px; background: var(--surface-2); overflow: hidden; }
+.weakfill { height: 100%; border-radius: 6px; transition: width .3s ease; }
+.weakcount { font-family: var(--font-mono); font-size: 13.5px; text-align: right; color: var(--text-muted); }
+
+/* question log by topic */
+.qgroup { border: 1px solid var(--border); border-radius: var(--radius-sm); margin-bottom: 10px; overflow: hidden; }
+.qgroup summary { cursor: pointer; padding: 12px 14px; list-style: none; display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: 14px; background: var(--surface-2); }
+.qgroup summary::-webkit-details-marker { display: none; }
+.qgroup summary .qcounts { margin-left: auto; display: flex; gap: 10px; font-size: 12px; font-weight: 600; }
+.qgroup summary .qc-wrong { color: var(--bad); }
+.qgroup summary .qc-correct { color: var(--blue); }
+.qchips { display: flex; flex-wrap: wrap; gap: 7px; padding: 13px 14px; }
+.qchip { font-family: var(--font-mono); font-size: 12.5px; padding: 4px 9px; border-radius: 7px; border: 1px solid var(--border); cursor: pointer; user-select: none; transition: opacity .12s; }
+.qchip.wrong { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+.qchip.correct { background: var(--blue-soft); color: var(--blue); border-color: transparent; }
+.qchip.unmarked { background: var(--surface-2); color: var(--text-muted); }
+.qchip.done { opacity: .38; text-decoration: line-through; }
+.legend-dot { width: 11px; height: 11px; border-radius: 3px; display: inline-block; }
+
+/* big volunteer stats */
+.bigstat { padding: 32px 28px; display: flex; flex-direction: column; gap: 8px; }
+.bigstat .bs-label { font-size: 13px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
+.bigstat .bs-value { font-family: var(--font-serif); font-size: 66px; font-weight: 600; line-height: .95; letter-spacing: -.02em; color: var(--accent-ink); }
+.bigstat.alt .bs-value { color: var(--good); }
+.bigstat .bs-value .unit { font-size: 22px; color: var(--text-faint); font-family: var(--font-sans); margin-left: 4px; }
+.bigstat .bs-foot { font-size: 13.5px; color: var(--text-faint); }
+
+@media (max-width: 580px) {
+  .kpi .spark { display: none; }   /* avoid overlap with the trend pill on narrow cards */
+}
+@media (max-width: 680px) {
+  .bigstat .bs-value { font-size: 50px; }
+  .bigstat { padding: 24px 20px; }
+  .weakrow { grid-template-columns: minmax(110px, 1.3fr) 1fr 40px; gap: 10px; }
+  .weaktopic { font-size: 13px; }
+}

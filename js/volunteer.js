@@ -1,107 +1,62 @@
-/* volunteer.js — shifts, hours logged, and a schedule view */
+/* volunteer.js — minimal: hours logged + committed total, split by ICU/ED/RHA */
 (function () {
   'use strict';
   const E = Charts.esc;
   const fmt = (h) => (h % 1 ? h.toFixed(2).replace(/0$/, '') : String(h));
+
+  const CAT_COLOR = { ICU: 'var(--accent)', ED: 'var(--warn)', RHA: 'var(--blue)' };
 
   function render(root, data) {
     const v = data.volunteer;
     if (!v || !v.shifts) { root.innerHTML = `<div class="page-head"><h1>Volunteer</h1></div><div class="card"><div class="empty">No volunteer data found.</div></div>`; return; }
     const today = DataLayer.todayISO();
     const orgs = v.orgs || {};
-    const shifts = v.shifts.slice().sort((a, b) => a.date < b.date ? -1 : 1);
     const isDone = (s) => s.status === 'completed' || s.date < today;
-    const completed = shifts.filter(isDone);
-    const upcoming = shifts.filter(s => !isDone(s)).sort((a, b) => a.date < b.date ? -1 : 1);
+    const completed = v.shifts.filter(isDone);
 
     const priorTotal = Object.values(orgs).reduce((a, o) => a + (o.priorHours || 0), 0);
-    const loggedHours = priorTotal + completed.reduce((a, s) => a + (s.hours || 0), 0);
-    const committedHours = priorTotal + shifts.reduce((a, s) => a + (s.hours || 0), 0);
+    const committed = priorTotal + v.shifts.reduce((a, s) => a + (s.hours || 0), 0);
 
-    // per-org logged = prior + completed shift hours
-    const byOrg = {};
-    Object.keys(orgs).forEach(o => { byOrg[o] = orgs[o].priorHours || 0; });
-    completed.forEach(s => { byOrg[s.org] = (byOrg[s.org] || 0) + s.hours; });
-    const orgColor = o => (orgs[o] && orgs[o].color) || 'var(--accent)';
-    const maxOrg = Math.max(1, ...Object.values(byOrg));
-    const next = upcoming[0];
+    // logged hours split by category: ICU / ED (Scripps roles) and RHA (org)
+    const cat = { ICU: 0, ED: 0, RHA: 0 };
+    completed.forEach(s => {
+      const k = s.org === 'RHA' ? 'RHA' : s.role; // ICU or ED
+      if (cat[k] != null) cat[k] += s.hours; else cat[k] = (cat[k] || 0) + s.hours;
+    });
+    const logged = priorTotal + Object.values(cat).reduce((a, b) => a + b, 0);
+    const maxCat = Math.max(1, ...Object.values(cat));
+
+    const bars = ['ICU', 'ED', 'RHA'].map(k => `
+      <div class="weakrow" style="grid-template-columns:60px 1fr 72px;margin-bottom:14px">
+        <div class="weaktopic" style="font-weight:600">${k}</div>
+        <div class="weakbar"><div class="weakfill" style="width:${(cat[k] / maxCat * 100).toFixed(0)}%;background:${CAT_COLOR[k]}"></div></div>
+        <div class="weakcount">${fmt(cat[k] || 0)} hrs</div>
+      </div>`).join('');
 
     root.innerHTML = `
-      <div class="page-head">
-        <h1>Volunteer</h1>
-        <p class="lede">Clinical and community volunteering — Scripps Health (ICU &amp; ED) and RHA. <b>${fmt(loggedHours)}</b> of <b>${fmt(committedHours)}</b> committed hours logged through exam season.</p>
-      </div>
+      <div class="page-head"><h1>Volunteer</h1></div>
+      <div class="dash">
+        <div class="grid cols-even">
+          <div class="card bigstat">
+            <span class="bs-label">Hours logged</span>
+            <span class="bs-value">${fmt(logged)}<span class="unit">hrs</span></span>
+            <span class="bs-foot">${completed.length} shifts done${priorTotal ? ' + ' + fmt(priorTotal) + ' prior Scripps hrs' : ''}</span>
+          </div>
+          <div class="card bigstat alt">
+            <span class="bs-label">Committed total</span>
+            <span class="bs-value">${fmt(committed)}<span class="unit">hrs</span></span>
+            <span class="bs-foot">${v.shifts.length} shifts scheduled through exam season</span>
+          </div>
+        </div>
 
-      <div class="grid kpi-row">
-        <div class="card kpi accent">
-          <span class="kpi-label">Hours logged</span>
-          <span class="kpi-value">${fmt(loggedHours)}<span class="unit">hrs</span></span>
-          <span class="kpi-foot">${completed.length} shifts done${priorTotal ? ' + ' + fmt(priorTotal) + ' prior' : ''}</span>
-        </div>
-        <div class="card kpi good">
-          <span class="kpi-label">Committed total</span>
-          <span class="kpi-value">${fmt(committedHours)}<span class="unit">hrs</span></span>
-          <span class="kpi-foot">${shifts.length} shifts scheduled</span>
-          ${ringPct(loggedHours, committedHours)}
-        </div>
-        <div class="card kpi">
-          <span class="kpi-label">Upcoming shifts</span>
-          <span class="kpi-value">${upcoming.length}</span>
-          <span class="kpi-foot">${next ? 'next: ' + DataLayer.prettyDate(next.date) : 'none scheduled'}</span>
-        </div>
-        <div class="card kpi">
-          <span class="kpi-label">Next shift</span>
-          <span class="kpi-value" style="font-size:20px;line-height:1.2">${next ? E(next.org.split(' ')[0]) + ' ' + E(next.role) : '—'}</span>
-          <span class="kpi-foot">${next ? DataLayer.prettyDate(next.date) + ' · ' + fmt(next.hours) + ' hrs' : ''}</span>
-        </div>
-      </div>
-
-      <div class="cols">
         <div class="card">
-          <div class="card-head"><h3>Schedule</h3><div class="sub">${shifts.length} shifts · upcoming first</div></div>
-          <div class="table-scroll" style="max-height:520px;overflow-y:auto">
-            <table class="data">
-              <thead><tr><th>Date</th><th>Org</th><th>Role</th><th>Hours</th><th>Status</th></tr></thead>
-              <tbody>${shifts.slice().reverse().map(s => `
-                <tr style="${isDone(s) ? 'opacity:.62' : ''}">
-                  <td>${DataLayer.prettyDate(s.date)}<span class="muted"> '${s.date.slice(2, 4)}</span></td>
-                  <td><span class="swatch" style="background:${orgColor(s.org)};margin-right:7px"></span>${E(s.org)}</td>
-                  <td>${E(s.role)}</td>
-                  <td class="num">${fmt(s.hours)}</td>
-                  <td>${isDone(s) ? '<span class="pill up">✓ done</span>' : '<span class="pill blue">upcoming</span>'}</td>
-                </tr>`).join('')}</tbody>
-            </table>
-          </div>
-        </div>
-
-        <div class="stack">
-          <div class="card">
-            <div class="card-head"><h3>Hours logged by org</h3></div>
-            ${Object.entries(byOrg).sort((a, b) => b[1] - a[1]).map(([o, h]) => `
-              <div class="deck">
-                <span style="min-width:118px">${E(o)}</span>
-                <span class="bar-track"><span class="bar-fill" style="width:${(h / maxOrg * 100).toFixed(0)}%;background:${orgColor(o)}"></span></span>
-                <span class="deck-n">${fmt(h)} hrs</span>
-              </div>`).join('')}
-            <p class="muted" style="margin-top:10px">${fmt(loggedHours)} hrs logged · ${fmt(committedHours - loggedHours)} hrs still scheduled.</p>
-          </div>
-          <div class="card">
-            <div class="card-head"><h3>Next up</h3></div>
-            ${upcoming.length ? `<div class="stack">${upcoming.slice(0, 6).map(s => `
-              <div class="info-item">
-                <span class="k">${DataLayer.prettyDate(s.date)}</span>
-                <span class="v"><b>${E(s.org.split(' ')[0])}</b> — ${E(s.role)} · ${fmt(s.hours)} hrs</span>
-              </div>`).join('')}</div>${upcoming.length > 6 ? `<p class="muted" style="margin-top:8px">+ ${upcoming.length - 6} more in the schedule.</p>` : ''}` : '<div class="empty">Nothing scheduled.</div>'}
-          </div>
+          <div class="card-head"><h3>Hours logged by area</h3></div>
+          ${bars}
+          ${priorTotal ? `<p class="muted" style="margin-top:12px">Logged total also includes ${fmt(priorTotal)} prior Scripps hrs not split by unit.</p>` : ''}
         </div>
       </div>
       <p class="muted" style="margin-top:18px">Edit shifts in <code>data/volunteer.json</code>.</p>
     `;
-  }
-
-  function ringPct(logged, total) {
-    return Charts.ring(logged, total, { color: 'var(--good)', center: Math.round(total ? logged / total * 100 : 0) + '%', sub: 'logged' })
-      .replace('class="ring"', 'class="ring" style="position:absolute;right:12px;bottom:10px;width:64px;height:64px"');
   }
 
   window.Volunteer = { render };
