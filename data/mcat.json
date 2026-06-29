@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-29T16:39:02.273Z",
+  "generatedAt": "2026-06-29T20:49:50.496Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 10,
+  "sessionCount": 11,
   "sessions": [
     {
       "date": "June 18",
@@ -2123,6 +2123,124 @@
           "rawHeader": "Anki",
           "marginPct": null,
           "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 29",
+      "isoDate": "2026-06-29",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": null,
+          "rawHeader": "General/Organic Chemistry (+13%) - 78%",
+          "marginPct": 13,
+          "scorePct": 78,
+          "questions": [
+            {
+              "id": "400316",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "wrong",
+              "note": "calculation error",
+              "uworldAvgPct": 43,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403790",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403792",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403794",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 34,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401455",
+              "topic": "Solutions and Electrochemistry",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 40,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403327",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "wrong",
+              "note": "forgot concept",
+              "uworldAvgPct": 62,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403328",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": null,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403769",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": "forgot concept",
+              "uworldAvgPct": 79,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403771",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 37,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403773",
+              "topic": "Introduction to Organic Chemistry",
+              "status": "wrong",
+              "note": "worth getting wrong",
+              "uworldAvgPct": 16,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "CARS AAMC DIAGNOSTIC (-9%) - 68%",
+          "marginPct": -9,
+          "scorePct": 68,
           "questions": []
         }
       ]
