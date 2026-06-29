@@ -95,7 +95,9 @@ export function isIdSuspect(id) {
 // Reads a free-text line like "Anki: Studied 1387 cards in 127 minutes".
 export function extractAnki(text) {
   if (!text) return null;
-  const m = String(text).match(/Anki[^.]*?Studied\s+([\d,]+)\s+cards?\s+in\s+(\d+)\s*min/i);
+  // matches "Studied 1387 cards in 127 minutes" — the "Anki" label is often a
+  // separate heading, so don't require it on the same line.
+  const m = String(text).match(/Studied\s+([\d,]+)\s+cards?\s+in\s+(\d+)\s*min/i);
   if (!m) return null;
   return { cards: parseInt(m[1].replace(/,/g, ''), 10), minutes: parseInt(m[2], 10) };
 }

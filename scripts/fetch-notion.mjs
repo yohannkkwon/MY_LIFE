@@ -103,7 +103,7 @@ async function parsePage(childBlock) {
 
   for (const b of blocks) {
     const bt = blockText(b);
-    if (/anki/i.test(bt)) ankiBits.push(bt);
+    if (bt) ankiBits.push(bt);
     if (b.type === 'heading_1') {
       const header = textOf(b.heading_1.rich_text);
       if (current) session.sections.push(current);
@@ -113,7 +113,7 @@ async function parsePage(childBlock) {
         const kids = await listChildren(b.id);
         for (const k of kids) {
           const kt = blockText(k);
-          if (/anki/i.test(kt)) ankiBits.push(kt);
+          if (kt) ankiBits.push(kt);
           if (k.type === 'numbered_list_item') {
             const q = parseQuestion(k, current.type);
             if (q) current.questions.push(q);
