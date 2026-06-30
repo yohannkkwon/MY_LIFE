@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:49:50.496Z",
+  "generatedAt": "2026-06-30T05:05:33.372Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 11,
@@ -2137,8 +2137,8 @@
         {
           "type": "gen_org_chem",
           "label": "Gen/Org Chem",
-          "provider": null,
-          "rawHeader": "General/Organic Chemistry (+13%) - 78%",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD General/Organic Chemistry (+13%) - 78%",
           "marginPct": 13,
           "scorePct": 78,
           "questions": [
@@ -2229,6 +2229,205 @@
               "status": "wrong",
               "note": "worth getting wrong",
               "uworldAvgPct": 16,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402075",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "wrong",
+              "note": "forgot concept",
+              "uworldAvgPct": 54,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402076",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": "didn’t read the passage properly",
+              "uworldAvgPct": 68,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402749",
+              "topic": "Interactions of Chemical Substances",
+              "status": "wrong",
+              "note": "new concept",
+              "uworldAvgPct": 63,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404018",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 51,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402537",
+              "topic": "Functional Groups and Their Reactions",
+              "status": "wrong",
+              "note": "couldn’t identify final product from passage",
+              "uworldAvgPct": 61,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401652",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 55,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401653",
+              "topic": "Atomic Theory and Chemical Composition",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 70,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD Behavioral Sciences (-1%) - 70%",
+          "marginPct": -1,
+          "scorePct": 70,
+          "questions": [
+            {
+              "id": "401693",
+              "topic": "Sensation, Perception, and Consciousness",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 87,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401298",
+              "topic": "Biological Basis of Behavior",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 51,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402398",
+              "topic": "Motivation, Emotion, Attitudes, Personality, and Stress",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 72,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402399",
+              "topic": "Motivation, Emotion, Attitudes, Personality, and Stress",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 65,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402400",
+              "topic": "Motivation, Emotion, Attitudes, Personality, and Stress",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 60,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402402",
+              "topic": "Motivation, Emotion, Attitudes, Personality, and Stress",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 78,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402086",
+              "topic": "Demographics and Social Structure",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 76,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400177",
+              "topic": "Learning, Memory, and Cognition",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 58,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400182",
+              "topic": "Learning, Memory, and Cognition",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 80,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400327",
+              "topic": "Biological Basis of Behavior",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 64,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402377",
+              "topic": "Demographics and Social Structure",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 70,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400228",
+              "topic": "Sensation, Perception, and Consciousness",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 71,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402036",
+              "topic": "Psychological Disorders and Treatment",
+              "status": "wrong",
+              "note": null,
+              "uworldAvgPct": 63,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "402542",
+              "topic": "Motivation, Emotion, Attitudes, Personality, and Stress",
+              "status": "unmarked",
+              "note": null,
+              "uworldAvgPct": 44,
               "carsSkill": null,
               "idSuspect": false
             }
