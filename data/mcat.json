@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-30T15:33:50.032Z",
+  "generatedAt": "2026-06-30T20:57:47.661Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 11,
+  "sessionCount": 12,
   "sessions": [
     {
       "date": "June 18",
@@ -2440,6 +2440,187 @@
           "rawHeader": "CARS AAMC DIAGNOSTIC (-9%) - 68%",
           "marginPct": -9,
           "scorePct": 68,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "Anki",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 30",
+      "isoDate": "2026-06-30",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BIO/BIOCHEM (+%) - %",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": [
+            {
+              "id": "404170",
+              "topic": "Endocrine and Nervous Systems",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 38,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400850",
+              "topic": "Molecular Biology",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 32,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400852",
+              "topic": "Molecular Biology",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 42,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400853",
+              "topic": "Molecular Biology",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 50,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400854",
+              "topic": "Molecular Biology",
+              "status": "correct",
+              "note": "concept issue",
+              "uworldAvgPct": 61,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403066",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "silly mistake",
+              "uworldAvgPct": 84,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403067",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "silly mistake",
+              "uworldAvgPct": 82,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403068",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "didn’t read properly",
+              "uworldAvgPct": 55,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403069",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 51,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403070",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 56,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403071",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 74,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401969",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 94,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401971",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "didn’t read properly",
+              "uworldAvgPct": 44,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401971",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "didn’t read properly",
+              "uworldAvgPct": 34,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401267",
+              "topic": "Cellular Biology",
+              "status": "wrong",
+              "note": "concept issue",
+              "uworldAvgPct": 55,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400366",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "didn’t read properly",
+              "uworldAvgPct": 80,
+              "carsSkill": null,
+              "idSuspect": false
+            }
+          ]
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 50%",
+          "marginPct": null,
+          "scorePct": 50,
           "questions": []
         }
       ]
