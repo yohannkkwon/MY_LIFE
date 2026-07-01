@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T20:57:47.661Z",
+  "generatedAt": "2026-07-01T05:23:07.803Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 12,
@@ -2611,6 +2611,141 @@
               "uworldAvgPct": 80,
               "carsSkill": null,
               "idSuspect": false
+            },
+            {
+              "id": "400368",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "silly mistake",
+              "uworldAvgPct": 64,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400369",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 56,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400370",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "didn’t read properly",
+              "uworldAvgPct": 44,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404126",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 42,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404128",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 19,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "404130",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 26,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401464",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 47,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "401465",
+              "topic": "Genetics and Evolution",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 64,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403097",
+              "topic": "Musculoskeletal System",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 35,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400681",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 51,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400684",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 46,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "400685",
+              "topic": "Metabolic Reactions",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 42,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403828",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 55,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403829",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 36,
+              "carsSkill": null,
+              "idSuspect": false
+            },
+            {
+              "id": "403830",
+              "topic": "Amino Acids and Proteins",
+              "status": "wrong",
+              "note": "knowledge gap",
+              "uworldAvgPct": 29,
+              "carsSkill": null,
+              "idSuspect": false
             }
           ]
         },
@@ -2621,6 +2756,15 @@
           "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 50%",
           "marginPct": null,
           "scorePct": 50,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "Anki",
+          "marginPct": null,
+          "scorePct": null,
           "questions": []
         }
       ]
