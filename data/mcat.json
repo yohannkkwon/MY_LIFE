@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T20:20:35.556Z",
+  "generatedAt": "2026-07-03T04:43:09.525Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 13,
@@ -25,6 +25,15 @@
           "label": "Other",
           "provider": null,
           "rawHeader": "Critical Analysis and Reasoning Skills",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Biological and Biochemical Foundations of Living Systems",
           "marginPct": null,
           "scorePct": null,
           "questions": []
