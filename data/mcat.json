@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-07-03T15:12:47.416Z",
+  "generatedAt": "2026-07-03T20:15:59.414Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 13,
+  "sessionCount": 15,
   "sessions": [
+    {
+      "date": "June 1st - FL #1",
+      "isoDate": "2026-06-01",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
     {
       "date": "June 2nd - FL1 Review",
       "isoDate": "2026-06-02",
@@ -36,6 +44,24 @@
           "rawHeader": "Biological and Biochemical Foundations of Living Systems",
           "marginPct": null,
           "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 3rd",
+      "isoDate": "2026-06-03",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD: Chemical and Physical Foundations of Biological Systems (+5%) - 64%",
+          "marginPct": 5,
+          "scorePct": 64,
           "questions": []
         }
       ]
