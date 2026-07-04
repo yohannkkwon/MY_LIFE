@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T20:15:59.414Z",
+  "generatedAt": "2026-07-04T04:36:33.987Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 15,
@@ -45,6 +45,15 @@
           "marginPct": null,
           "scorePct": null,
           "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
         }
       ]
     },
@@ -61,6 +70,15 @@
           "provider": "UWorld",
           "rawHeader": "UWORLD: Chemical and Physical Foundations of Biological Systems (+5%) - 64%",
           "marginPct": 5,
+          "scorePct": 64,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "JW: Critical Analysis and Reasoning Skills (+6%) - 64%",
+          "marginPct": 6,
           "scorePct": 64,
           "questions": []
         }
