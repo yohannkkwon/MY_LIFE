@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T14:45:09.693Z",
+  "generatedAt": "2026-07-05T20:15:48.226Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 15,
+  "sessionCount": 17,
   "sessions": [
     {
       "date": "June 1st - FL #1",
@@ -80,6 +80,41 @@
           "rawHeader": "JW: Critical Analysis and Reasoning Skills (+6%) - 64%",
           "marginPct": 6,
           "scorePct": 64,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 4th - RHA",
+      "isoDate": "2026-06-04",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "June 5th",
+      "isoDate": "2026-06-05",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+18%) - 80%",
+          "marginPct": 18,
+          "scorePct": 80,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior",
+          "marginPct": null,
+          "scorePct": null,
           "questions": []
         }
       ]
