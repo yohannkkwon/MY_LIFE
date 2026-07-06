@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T20:15:48.226Z",
+  "generatedAt": "2026-07-06T05:15:24.345Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 17,
@@ -112,9 +112,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior",
-          "marginPct": null,
-          "scorePct": null,
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+3%) - 69%",
+          "marginPct": 3,
+          "scorePct": 69,
           "questions": []
         }
       ]
