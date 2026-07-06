@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T16:21:53.834Z",
+  "generatedAt": "2026-07-06T20:53:13.014Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 17,
+  "sessionCount": 18,
   "sessions": [
     {
       "date": "June 1st - FL #1",
@@ -115,6 +115,33 @@
           "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+3%) - 69%",
           "marginPct": 3,
           "scorePct": 69,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 6th",
+      "isoDate": "2026-06-06",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+8%) - 71%",
+          "marginPct": 8,
+          "scorePct": 71,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+11%) - 73%",
+          "marginPct": 11,
+          "scorePct": 73,
           "questions": []
         }
       ]
