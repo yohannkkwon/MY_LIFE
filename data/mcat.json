@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:23:41.011Z",
+  "generatedAt": "2026-07-08T20:22:26.194Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 20,
@@ -2948,9 +2948,9 @@
       ]
     },
     {
-      "date": "July 9th",
-      "isoDate": "2026-07-09",
-      "weekday": "Thu",
+      "date": "July 8th",
+      "isoDate": "2026-07-08",
+      "weekday": "Wed",
       "isBreak": false,
       "anki": null,
       "sections": [
@@ -2958,9 +2958,18 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+3%) - 69%",
-          "marginPct": 3,
-          "scorePct": 69,
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+5%) - 73%",
+          "marginPct": 5,
+          "scorePct": 73,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+5%) - 75%",
+          "marginPct": 5,
+          "scorePct": 75,
           "questions": []
         }
       ]
