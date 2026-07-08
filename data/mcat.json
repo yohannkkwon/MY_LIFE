@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:50:14.961Z",
+  "generatedAt": "2026-07-08T04:15:47.230Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 19,
@@ -165,10 +165,19 @@
         {
           "type": "other",
           "label": "Other",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+%) - %",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - Critical Analysis and Reasoning Skills - 54%",
           "marginPct": null,
-          "scorePct": null,
+          "scorePct": 54,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin - Critical Analysis and Reasoning Skills - (-16%) - 43%",
+          "marginPct": -16,
+          "scorePct": 43,
           "questions": []
         }
       ]
