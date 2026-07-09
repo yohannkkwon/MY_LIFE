@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T15:57:48.573Z",
+  "generatedAt": "2026-07-09T20:47:56.940Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 21,
@@ -2985,9 +2985,27 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+8%) - 71%",
-          "marginPct": 8,
-          "scorePct": 71,
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+20%) - 83%",
+          "marginPct": 20,
+          "scorePct": 83,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - Critical Analysis and Reasoning Skills - (+25%) - 79%",
+          "marginPct": 25,
+          "scorePct": 79,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Biology - Chapter 2: Reproduction",
+          "marginPct": null,
+          "scorePct": null,
           "questions": []
         }
       ]
