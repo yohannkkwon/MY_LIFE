@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T20:24:39.180Z",
+  "generatedAt": "2026-07-11T04:13:41.262Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 21,
+  "sessionCount": 22,
   "sessions": [
     {
       "date": "June 1st - FL #1",
@@ -178,6 +178,24 @@
           "rawHeader": "Jack Westin - Critical Analysis and Reasoning Skills - (-16%) - 43%",
           "marginPct": -16,
           "scorePct": 43,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "June 10th",
+      "isoDate": "2026-06-10",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+14%) - 71%",
+          "marginPct": 14,
+          "scorePct": 71,
           "questions": []
         }
       ]
