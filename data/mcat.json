@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T14:26:46.388Z",
+  "generatedAt": "2026-07-12T20:06:38.088Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 22,
+  "sessionCount": 24,
   "sessions": [
     {
       "date": "June 1st - FL #1",
@@ -199,6 +199,14 @@
           "questions": []
         }
       ]
+    },
+    {
+      "date": "June 11th - RHA",
+      "isoDate": "2026-06-11",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
     },
     {
       "date": "June 18",
@@ -3024,6 +3032,33 @@
           "rawHeader": "Biology - Chapter 2: Reproduction",
           "marginPct": null,
           "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 12th",
+      "isoDate": "2026-07-12",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+8%) - 73%",
+          "marginPct": 8,
+          "scorePct": 73,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - Critical Analysis and Reasoning Skills - (+1%) - 80%",
+          "marginPct": 1,
+          "scorePct": 80,
           "questions": []
         }
       ]
