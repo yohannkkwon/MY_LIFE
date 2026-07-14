@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:54:08.408Z",
+  "generatedAt": "2026-07-14T20:14:10.589Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 26,
@@ -3082,7 +3082,7 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "Chemical and Physical Foundations of Biological Systems (128) +2",
+          "rawHeader": "Chemical and Physical Foundations of Biological Systems (128)",
           "marginPct": null,
           "scorePct": null,
           "questions": []
@@ -3100,7 +3100,7 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "Biological and Biochemical Foundations of Living Systems",
+          "rawHeader": "Biological and Biochemical Foundations of Living Systems (125)",
           "marginPct": null,
           "scorePct": null,
           "questions": []
@@ -3109,7 +3109,7 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior",
+          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior (126)",
           "marginPct": null,
           "scorePct": null,
           "questions": []
