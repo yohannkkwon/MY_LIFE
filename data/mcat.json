@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T15:04:45.942Z",
+  "generatedAt": "2026-07-16T20:03:37.278Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 27,
+  "sessionCount": 28,
   "sessions": [
     {
       "date": "June 1st - FL #1 (500)",
@@ -3139,6 +3139,33 @@
           "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+1%) - 68%",
           "marginPct": 1,
           "scorePct": 68,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 16th",
+      "isoDate": "2026-07-16",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+6%) - 64%",
+          "marginPct": 6,
+          "scorePct": 64,
+          "questions": []
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 60%",
+          "marginPct": null,
+          "scorePct": 60,
           "questions": []
         }
       ]
