@@ -1,213 +1,9 @@
 {
-  "generatedAt": "2026-07-17T14:44:57.436Z",
+  "generatedAt": "2026-07-17T20:07:08.525Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 28,
+  "sessionCount": 29,
   "sessions": [
-    {
-      "date": "June 1st - FL #1 (500)",
-      "isoDate": "2026-06-01",
-      "weekday": "Mon",
-      "isBreak": false,
-      "anki": null,
-      "sections": []
-    },
-    {
-      "date": "June 2nd - FL1 Review",
-      "isoDate": "2026-06-02",
-      "weekday": "Tue",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": null,
-          "rawHeader": "Chemical and Physical Foundations of Biological Systems",
-          "marginPct": null,
-          "scorePct": null,
-          "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": null,
-          "rawHeader": "Critical Analysis and Reasoning Skills",
-          "marginPct": null,
-          "scorePct": null,
-          "questions": []
-        },
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": null,
-          "rawHeader": "Biological and Biochemical Foundations of Living Systems",
-          "marginPct": null,
-          "scorePct": null,
-          "questions": []
-        },
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": null,
-          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior",
-          "marginPct": null,
-          "scorePct": null,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 3rd",
-      "isoDate": "2026-06-03",
-      "weekday": "Wed",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD: Chemical and Physical Foundations of Biological Systems (+5%) - 64%",
-          "marginPct": 5,
-          "scorePct": 64,
-          "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": null,
-          "rawHeader": "JW: Critical Analysis and Reasoning Skills (+6%) - 64%",
-          "marginPct": 6,
-          "scorePct": 64,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 4th - RHA",
-      "isoDate": "2026-06-04",
-      "weekday": "Thu",
-      "isBreak": false,
-      "anki": null,
-      "sections": []
-    },
-    {
-      "date": "June 5th",
-      "isoDate": "2026-06-05",
-      "weekday": "Fri",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+18%) - 80%",
-          "marginPct": 18,
-          "scorePct": 80,
-          "questions": []
-        },
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+3%) - 69%",
-          "marginPct": 3,
-          "scorePct": 69,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 6th",
-      "isoDate": "2026-06-06",
-      "weekday": "Sat",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+8%) - 71%",
-          "marginPct": 8,
-          "scorePct": 71,
-          "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+11%) - 73%",
-          "marginPct": 11,
-          "scorePct": 73,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 7th",
-      "isoDate": "2026-06-07",
-      "weekday": "Sun",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+14%) - 71%",
-          "marginPct": 14,
-          "scorePct": 71,
-          "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": "AAMC",
-          "rawHeader": "AAMC - Critical Analysis and Reasoning Skills - 54%",
-          "marginPct": null,
-          "scorePct": 54,
-          "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": "Jack Westin",
-          "rawHeader": "Jack Westin - Critical Analysis and Reasoning Skills - (-16%) - 43%",
-          "marginPct": -16,
-          "scorePct": 43,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 10th",
-      "isoDate": "2026-06-10",
-      "weekday": "Wed",
-      "isBreak": false,
-      "anki": null,
-      "sections": [
-        {
-          "type": "bio_biochem",
-          "label": "Bio/Biochem",
-          "provider": "UWorld",
-          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+3%) - 61%",
-          "marginPct": 3,
-          "scorePct": 61,
-          "questions": []
-        }
-      ]
-    },
-    {
-      "date": "June 11th - RHA",
-      "isoDate": "2026-06-11",
-      "weekday": "Thu",
-      "isBreak": false,
-      "anki": null,
-      "sections": []
-    },
     {
       "date": "June 18",
       "isoDate": "2026-06-18",
@@ -2974,6 +2770,184 @@
       ]
     },
     {
+      "date": "July 1st - FL #1 (500)",
+      "isoDate": "2026-07-01",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "July 2nd - FL1 Review",
+      "isoDate": "2026-07-02",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Chemical and Physical Foundations of Biological Systems",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "Critical Analysis and Reasoning Skills",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Biological and Biochemical Foundations of Living Systems",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 3rd",
+      "isoDate": "2026-07-03",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD: Chemical and Physical Foundations of Biological Systems (+5%) - 64%",
+          "marginPct": 5,
+          "scorePct": 64,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "JW: Critical Analysis and Reasoning Skills (+6%) - 64%",
+          "marginPct": 6,
+          "scorePct": 64,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 4th - RHA",
+      "isoDate": "2026-07-04",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "July 5th",
+      "isoDate": "2026-07-05",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+18%) - 80%",
+          "marginPct": 18,
+          "scorePct": 80,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+3%) - 69%",
+          "marginPct": 3,
+          "scorePct": 69,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 6th",
+      "isoDate": "2026-07-06",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+8%) - 71%",
+          "marginPct": 8,
+          "scorePct": 71,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Critical Analysis and Reasoning Skills (+11%) - 73%",
+          "marginPct": 11,
+          "scorePct": 73,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 7th",
+      "isoDate": "2026-07-07",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+14%) - 71%",
+          "marginPct": 14,
+          "scorePct": 71,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - Critical Analysis and Reasoning Skills - 54%",
+          "marginPct": null,
+          "scorePct": 54,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin - Critical Analysis and Reasoning Skills - (-16%) - 43%",
+          "marginPct": -16,
+          "scorePct": 43,
+          "questions": []
+        }
+      ]
+    },
+    {
       "date": "July 8th",
       "isoDate": "2026-07-08",
       "weekday": "Wed",
@@ -3035,6 +3009,32 @@
           "questions": []
         }
       ]
+    },
+    {
+      "date": "July 10th",
+      "isoDate": "2026-07-10",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+3%) - 61%",
+          "marginPct": 3,
+          "scorePct": 61,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 11th - RHA",
+      "isoDate": "2026-07-11",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
     },
     {
       "date": "July 12th",
@@ -3166,6 +3166,24 @@
           "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 60%",
           "marginPct": null,
           "scorePct": 60,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 17th",
+      "isoDate": "2026-07-17",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+5%) - 74%",
+          "marginPct": 5,
+          "scorePct": 74,
           "questions": []
         }
       ]
