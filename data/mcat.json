@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:07:08.525Z",
+  "generatedAt": "2026-07-18T03:56:04.054Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 29,
@@ -3184,6 +3184,15 @@
           "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+5%) - 74%",
           "marginPct": 5,
           "scorePct": 74,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills - 60%",
+          "marginPct": null,
+          "scorePct": 60,
           "questions": []
         }
       ]
