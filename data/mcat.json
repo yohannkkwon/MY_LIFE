@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T15:13:03.593Z",
+  "generatedAt": "2026-07-20T20:22:51.638Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 31,
+  "sessionCount": 32,
   "sessions": [
     {
       "date": "June 18",
@@ -3255,6 +3255,33 @@
           "rawHeader": "BLUEPRINT - Chemical and Physical Foundations of Biological Systems (+7.0%) - 57.1%",
           "marginPct": 7,
           "scorePct": 57.1,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 20th",
+      "isoDate": "2026-07-20",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 50% (-23%)",
+          "marginPct": -23,
+          "scorePct": 50,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+10%) - 69%",
+          "marginPct": 10,
+          "scorePct": 69,
           "questions": []
         }
       ]
