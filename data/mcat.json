@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:36:26.797Z",
+  "generatedAt": "2026-07-20T10:13:54.030Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 31,
@@ -3213,6 +3213,15 @@
       "anki": null,
       "sections": [
         {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "6:42:22, 811",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
@@ -3237,6 +3246,15 @@
           "rawHeader": "BLUEPRINT - Biological and Biochemical Foundations of Living Systems (+14.9%) - 70.4%",
           "marginPct": 14.9,
           "scorePct": 70.4,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Chemical and Physical Foundations of Biological Systems (+7.0%) - 57.1%",
+          "marginPct": 7,
+          "scorePct": 57.1,
           "questions": []
         }
       ]
