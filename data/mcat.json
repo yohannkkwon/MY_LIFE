@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:16:19.087Z",
+  "generatedAt": "2026-07-21T09:28:18.664Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 32,
@@ -3267,12 +3267,12 @@
       "anki": null,
       "sections": [
         {
-          "type": "cars",
-          "label": "CARS",
-          "provider": "AAMC",
-          "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 50% (-23%)",
-          "marginPct": -23,
-          "scorePct": 50,
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "6:26:25, 637",
+          "marginPct": null,
+          "scorePct": null,
           "questions": []
         },
         {
@@ -3285,12 +3285,21 @@
           "questions": []
         },
         {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Q. Pack Vol. 1 - 50% (-23%)",
+          "marginPct": -23,
+          "scorePct": 50,
+          "questions": []
+        },
+        {
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (+5%) - 74%",
-          "marginPct": 5,
-          "scorePct": 74,
+          "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (-15%) - 50%",
+          "marginPct": -15,
+          "scorePct": 50,
           "questions": []
         }
       ]
