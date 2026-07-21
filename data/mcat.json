@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T15:05:12.407Z",
+  "generatedAt": "2026-07-21T20:19:57.621Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 32,
+  "sessionCount": 33,
   "sessions": [
     {
       "date": "June 18",
@@ -3300,6 +3300,33 @@
           "rawHeader": "UWORLD - Psychological, Social, and Biological Foundations of Behavior (-15%) - 50%",
           "marginPct": -15,
           "scorePct": 50,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 21st",
+      "isoDate": "2026-07-21",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills - 66.7% (+10.1%)",
+          "marginPct": 10.1,
+          "scorePct": 66.7,
           "questions": []
         }
       ]
