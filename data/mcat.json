@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T15:05:49.368Z",
+  "generatedAt": "2026-07-22T20:12:23.979Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 33,
+  "sessionCount": 34,
   "sessions": [
     {
       "date": "June 18",
@@ -3312,6 +3312,15 @@
       "anki": null,
       "sections": [
         {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "7:18:26, 511",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
@@ -3345,6 +3354,33 @@
           "rawHeader": "BLUEPRINT - Biology, Biochemistry, Psychology and Sociology (+8.0%) - 77.8%",
           "marginPct": 8,
           "scorePct": 77.8,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 22nd",
+      "isoDate": "2026-07-22",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+14%) - 78%",
+          "marginPct": 14,
+          "scorePct": 78,
+          "questions": []
+        },
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Q. Pack Vol. 1 (+10%) - 60%",
+          "marginPct": 10,
+          "scorePct": 60,
           "questions": []
         }
       ]
