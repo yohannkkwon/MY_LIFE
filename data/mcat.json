@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T20:19:57.621Z",
+  "generatedAt": "2026-07-22T04:17:51.760Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 33,
@@ -3315,18 +3315,36 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior",
-          "marginPct": null,
-          "scorePct": null,
+          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior (-1.20%) - 61.2%",
+          "marginPct": -1.2,
+          "scorePct": 61.2,
           "questions": []
         },
         {
           "type": "other",
           "label": "Other",
           "provider": null,
-          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills - 66.7% (+10.1%)",
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (+10.1%) - 66.7%",
           "marginPct": 10.1,
           "scorePct": 66.7,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Biology, Biochemistry, General Chemistry (+9.0%) - 66.7%",
+          "marginPct": 9,
+          "scorePct": 66.7,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Biology, Biochemistry, Psychology and Sociology (+8.0%) - 77.8%",
+          "marginPct": 8,
+          "scorePct": 77.8,
           "questions": []
         }
       ]
