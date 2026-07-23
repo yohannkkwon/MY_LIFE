@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T04:16:23.614Z",
+  "generatedAt": "2026-07-23T09:25:28.591Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 34,
@@ -3405,9 +3405,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "BLUEPRINT - Biology, Biochemistry, General Chemistry, Physics (+7.50%) - 62.5%",
-          "marginPct": 7.5,
-          "scorePct": 62.5,
+          "rawHeader": "BLUEPRINT - Biology, Biochemistry, General Chemistry, Physics (-19.00%) - 38.9%",
+          "marginPct": -19,
+          "scorePct": 38.9,
           "questions": []
         }
       ]
