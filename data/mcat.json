@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:12:23.979Z",
+  "generatedAt": "2026-07-23T04:16:23.614Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 34,
@@ -3369,9 +3369,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+14%) - 78%",
-          "marginPct": 14,
-          "scorePct": 78,
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+4%) - 63%",
+          "marginPct": 4,
+          "scorePct": 63,
           "questions": []
         },
         {
@@ -3381,6 +3381,33 @@
           "rawHeader": "AAMC CARS Q. Pack Vol. 1 (+10%) - 60%",
           "marginPct": 10,
           "scorePct": 60,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (+7.8%) - 84.60%",
+          "marginPct": 7.8,
+          "scorePct": 84.6,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Biology, Biochemistry, General Chemistry, Physics (+7.50%) - 62.5%",
+          "marginPct": 7.5,
+          "scorePct": 62.5,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Biology, Biochemistry, General Chemistry, Physics (+7.50%) - 62.5%",
+          "marginPct": 7.5,
+          "scorePct": 62.5,
           "questions": []
         }
       ]
