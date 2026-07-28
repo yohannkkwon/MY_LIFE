@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T15:23:38.555Z",
+  "generatedAt": "2026-07-28T20:16:46.738Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 39,
+  "sessionCount": 40,
   "sessions": [
     {
       "date": "June 18",
@@ -3532,6 +3532,33 @@
           "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+13%) - 70%",
           "marginPct": 13,
           "scorePct": 70,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 28th",
+      "isoDate": "2026-07-28",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (-4.10%) - 57.70%",
+          "marginPct": -4.1,
+          "scorePct": 57.7,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior (-1.9%) - 59.6%",
+          "marginPct": -1.9,
+          "scorePct": 59.6,
           "questions": []
         }
       ]
