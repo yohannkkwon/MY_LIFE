@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T20:16:46.738Z",
+  "generatedAt": "2026-07-29T04:13:48.044Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 40,
@@ -3556,9 +3556,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": null,
-          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior (-1.9%) - 59.6%",
-          "marginPct": -1.9,
-          "scorePct": 59.6,
+          "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior (-6.60%) - 49.10%",
+          "marginPct": -6.6,
+          "scorePct": 49.1,
           "questions": []
         }
       ]
