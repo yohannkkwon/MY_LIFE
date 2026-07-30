@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T15:11:46.611Z",
+  "generatedAt": "2026-07-30T20:15:38.806Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 40,
+  "sessionCount": 42,
   "sessions": [
     {
       "date": "June 18",
@@ -3559,6 +3559,41 @@
           "rawHeader": "BLUEPRINT - Psychological, Social, and Biological Foundations of Behavior (-6.60%) - 49.10%",
           "marginPct": -6.6,
           "scorePct": 49.1,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "July 29th - SHADOWING IN LA",
+      "isoDate": "2026-07-29",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "July 30th",
+      "isoDate": "2026-07-30",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (+2.20%) - 63.30%",
+          "marginPct": 2.2,
+          "scorePct": 63.3,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Chemical and Physical Foundations of Biological Systems (+8%) - 73%",
+          "marginPct": 8,
+          "scorePct": 73,
           "questions": []
         }
       ]
