@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T14:37:03.979Z",
+  "generatedAt": "2026-08-02T20:11:25.233Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 1,
+  "sessionCount": 2,
   "sessions": [
     {
       "date": "August 1st - FL #3",
@@ -11,6 +11,51 @@
       "isBreak": false,
       "anki": null,
       "sections": []
+    },
+    {
+      "date": "August 2nd - FL #3 (505)",
+      "isoDate": "2026-08-02",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Chemical and Physical Foundations of Biological Systems (128)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "Critical Analysis and Reasoning Skills (125)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Biological and Biochemical Foundations of Living Systems (126)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior (126)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        }
+      ]
     }
   ]
 }
