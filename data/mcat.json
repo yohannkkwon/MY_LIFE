@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T10:43:45.163Z",
+  "generatedAt": "2026-08-03T15:44:20.560Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 2,
+  "sessionCount": 3,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -62,6 +62,24 @@
           "rawHeader": "BLUEPRINT - Evolution (+11.00%) - 77.80%",
           "marginPct": 11,
           "scorePct": 77.8,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 3rd",
+      "isoDate": "2026-08-03",
+      "weekday": "Mon",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (+2.20%) - 63.30%",
+          "marginPct": 2.2,
+          "scorePct": 63.3,
           "questions": []
         }
       ]
