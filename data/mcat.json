@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-02T20:11:25.233Z",
+  "generatedAt": "2026-08-03T04:31:14.864Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 2,
   "sessions": [
     {
-      "date": "August 1st - FL #3",
+      "date": "August 1st - FL #3 (505)",
       "isoDate": "2026-08-01",
       "weekday": "Sat",
       "isBreak": false,
@@ -13,7 +13,7 @@
       "sections": []
     },
     {
-      "date": "August 2nd - FL #3 (505)",
+      "date": "August 2nd - FL #3 Review",
       "isoDate": "2026-08-02",
       "weekday": "Sun",
       "isBreak": false,
@@ -53,6 +53,15 @@
           "rawHeader": "Psychological, Social, and Biological Foundations of Behavior (126)",
           "marginPct": null,
           "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Evolution (+11.00%) - 77.80%",
+          "marginPct": 11,
+          "scorePct": 77.8,
           "questions": []
         }
       ]
