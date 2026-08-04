@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T15:25:24.735Z",
+  "generatedAt": "2026-08-04T20:26:08.166Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 3,
+  "sessionCount": 4,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -80,6 +80,24 @@
           "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (-14.18%) - 48.30%",
           "marginPct": -14.18,
           "scorePct": 48.3,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 4th",
+      "isoDate": "2026-08-04",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - Critical Analysis and Reasoning Skills (5.20%) - 75.70%",
+          "marginPct": null,
+          "scorePct": 5.2,
           "questions": []
         }
       ]
