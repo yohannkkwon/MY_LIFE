@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T15:14:33.292Z",
+  "generatedAt": "2026-08-05T20:27:24.063Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 4,
+  "sessionCount": 5,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -110,6 +110,14 @@
           "questions": []
         }
       ]
+    },
+    {
+      "date": "August 5th - LA SHADOWING",
+      "isoDate": "2026-08-05",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
     }
   ]
 }
