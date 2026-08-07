@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T15:15:51.678Z",
+  "generatedAt": "2026-08-07T00:40:56.217Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 5,
+  "sessionCount": 6,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -118,6 +118,42 @@
       "isBreak": false,
       "anki": null,
       "sections": []
+    },
+    {
+      "date": "August 6th",
+      "isoDate": "2026-08-06",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (3.80%) - 75.70%",
+          "marginPct": null,
+          "scorePct": 3.8,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (Q59) Psychological, Social, and Biological Foundations of Behavior (+3.10%) - 62.70%",
+          "marginPct": 3.1,
+          "scorePct": 62.7,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - (Q30) Chemical and Physical Foundations of Biological Systems (+9%) - 73%",
+          "marginPct": 9,
+          "scorePct": 73,
+          "questions": []
+        }
+      ]
     }
   ]
 }
