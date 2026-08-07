@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:40:56.217Z",
+  "generatedAt": "2026-08-07T03:50:10.582Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 6,
@@ -148,9 +148,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "UWorld",
-          "rawHeader": "UWORLD - (Q30) Chemical and Physical Foundations of Biological Systems (+9%) - 73%",
-          "marginPct": 9,
-          "scorePct": 73,
+          "rawHeader": "UWORLD - (Q30) Chemical and Physical Foundations of Biological Systems (+4%) - 70%",
+          "marginPct": 4,
+          "scorePct": 70,
           "questions": []
         }
       ]
