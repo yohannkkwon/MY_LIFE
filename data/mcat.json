@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T14:13:22.068Z",
+  "generatedAt": "2026-08-07T19:53:11.962Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 6,
+  "sessionCount": 7,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -130,7 +130,7 @@
           "type": "other",
           "label": "Other",
           "provider": null,
-          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (3.80%) - 75.70%",
+          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (3.80%) - 67.60%",
           "marginPct": null,
           "scorePct": 3.8,
           "questions": []
@@ -150,6 +150,33 @@
           "provider": "UWorld",
           "rawHeader": "UWORLD - (Q30) Chemical and Physical Foundations of Biological Systems (+4%) - 70%",
           "marginPct": 4,
+          "scorePct": 70,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 7th",
+      "isoDate": "2026-08-07",
+      "weekday": "Fri",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (+21.45%) - 88.90%",
+          "marginPct": 21.45,
+          "scorePct": 88.9,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "UWorld",
+          "rawHeader": "UWORLD - Biological and Biochemical Foundations of Living Systems (+13%) - 70%",
+          "marginPct": 13,
           "scorePct": 70,
           "questions": []
         }
