@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T13:50:55.985Z",
+  "generatedAt": "2026-08-09T19:34:25.228Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 7,
+  "sessionCount": 9,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -187,6 +187,32 @@
           "rawHeader": "AAMC - (Q40) Biology Question Pack, Vol. 1 - 75.00%",
           "marginPct": null,
           "scorePct": 75,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 8th - RHA",
+      "isoDate": "2026-08-08",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "August 9th",
+      "isoDate": "2026-08-09",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (+?%) - 60.40%",
+          "marginPct": null,
+          "scorePct": 60.4,
           "questions": []
         }
       ]
