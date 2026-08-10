@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T19:34:25.228Z",
+  "generatedAt": "2026-08-10T03:11:51.621Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 9,
@@ -210,9 +210,27 @@
           "type": "other",
           "label": "Other",
           "provider": null,
-          "rawHeader": "BLUEPRINT - (P6) Critical Analysis and Reasoning Skills (+?%) - 60.40%",
-          "marginPct": null,
+          "rawHeader": "BLUEPRINT - (FULL) Critical Analysis and Reasoning Skills (-4.50%) - 60.40%",
+          "marginPct": -4.5,
           "scorePct": 60.4,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q70) Biology Question Pack, Vol. 1 - 77%",
+          "marginPct": null,
+          "scorePct": 77,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q40) Section Bank, Vol. 1 - P/S - 80%",
+          "marginPct": null,
+          "scorePct": 80,
           "questions": []
         }
       ]
