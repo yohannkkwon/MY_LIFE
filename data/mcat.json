@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:59:56.231Z",
+  "generatedAt": "2026-08-12T03:23:37.593Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 11,
@@ -294,6 +294,15 @@
           "rawHeader": "BLUEPRINT - (P6/Q37) Critical Analysis and Reasoning Skills (+11.0%) - 69.7%",
           "marginPct": 11,
           "scorePct": 69.7,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q30) B/B Section Bank, Vol. 1 - 63%",
+          "marginPct": null,
+          "scorePct": 63,
           "questions": []
         }
       ]
