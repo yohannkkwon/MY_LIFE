@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T03:24:20.052Z",
+  "generatedAt": "2026-08-14T08:17:04.542Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 13,
@@ -362,9 +362,9 @@
           "type": "bio_biochem",
           "label": "Bio/Biochem",
           "provider": "AAMC",
-          "rawHeader": "AAMC - (Q70) Biology Question Pack, Vol. 2",
+          "rawHeader": "AAMC - (Q40) Biology Question Pack, Vol. 2 - 68%",
           "marginPct": null,
-          "scorePct": null,
+          "scorePct": 68,
           "questions": []
         }
       ]
