@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:49:59.949Z",
+  "generatedAt": "2026-08-15T02:14:10.010Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 14,
@@ -389,9 +389,18 @@
           "type": "other",
           "label": "Other",
           "provider": "AAMC",
-          "rawHeader": "AAMC - (Q60) C/P Section Pack, Vol. 1 - 57%",
+          "rawHeader": "AAMC - (Q60) C/P Section Pack, Vol. 1 - 58%",
           "marginPct": null,
-          "scorePct": 57,
+          "scorePct": 58,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q40) Biology Question Pack, Vol. 2 - 73%",
+          "marginPct": null,
+          "scorePct": 73,
           "questions": []
         }
       ]
