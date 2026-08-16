@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T13:32:37.663Z",
+  "generatedAt": "2026-08-16T19:21:35.930Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 14,
+  "sessionCount": 16,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -380,9 +380,9 @@
           "type": "other",
           "label": "Other",
           "provider": null,
-          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (13.0%) - 77.1%",
-          "marginPct": null,
-          "scorePct": 13,
+          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (+13.0%) - 77.1%",
+          "marginPct": 13,
+          "scorePct": 77.1,
           "questions": []
         },
         {
@@ -401,6 +401,32 @@
           "rawHeader": "AAMC - (Q40) Biology Question Pack, Vol. 2 - 73%",
           "marginPct": null,
           "scorePct": 73,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 15th - RHA",
+      "isoDate": "2026-08-15",
+      "weekday": "Sat",
+      "isBreak": false,
+      "anki": null,
+      "sections": []
+    },
+    {
+      "date": "August 16th",
+      "isoDate": "2026-08-16",
+      "weekday": "Sun",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (+4.8%) - 72.7%",
+          "marginPct": 4.8,
+          "scorePct": 72.7,
           "questions": []
         }
       ]
