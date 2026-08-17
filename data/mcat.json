@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:21:35.930Z",
+  "generatedAt": "2026-08-17T02:19:52.837Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 16,
@@ -427,6 +427,24 @@
           "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (+4.8%) - 72.7%",
           "marginPct": 4.8,
           "scorePct": 72.7,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin - (FULL/Q58) P/S (-9%) - 60%",
+          "marginPct": -9,
+          "scorePct": 60,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q30) B/B Section Bank, Vol. 1 - 75%",
+          "marginPct": null,
+          "scorePct": 75,
           "questions": []
         }
       ]
