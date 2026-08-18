@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T13:43:12.403Z",
+  "generatedAt": "2026-08-18T19:28:38.223Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 17,
+  "sessionCount": 18,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -499,6 +499,24 @@
           "rawHeader": "Jack Westin - (DISCRETE/Q50) P/S (+7%) - 82%",
           "marginPct": 7,
           "scorePct": 82,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 18th",
+      "isoDate": "2026-08-18",
+      "weekday": "Tue",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (-13.14%) - 66.70%",
+          "marginPct": -13.14,
+          "scorePct": 66.7,
           "questions": []
         }
       ]
