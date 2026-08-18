@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:29:18.727Z",
+  "generatedAt": "2026-08-18T02:15:41.019Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 17,
@@ -433,7 +433,7 @@
           "type": "other",
           "label": "Other",
           "provider": "Jack Westin",
-          "rawHeader": "Jack Westin - (FULL/Q58) P/S (-9%) - 60%",
+          "rawHeader": "Jack Westin - (PASSAGE/Q58) P/S (-9%) - 60%",
           "marginPct": -9,
           "scorePct": 60,
           "questions": []
@@ -472,6 +472,24 @@
           "rawHeader": "AAMC - (Q62) Chemistry Q. Pack - 77%",
           "marginPct": null,
           "scorePct": 77,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q30) B/B Section Bank, Vol. 1 - 66%",
+          "marginPct": null,
+          "scorePct": 66,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin - (DISCRETE/Q50) P/S (+7%) - 82%",
+          "marginPct": 7,
+          "scorePct": 82,
           "questions": []
         }
       ]
