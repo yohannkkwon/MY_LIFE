@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T13:45:08.807Z",
+  "generatedAt": "2026-08-19T19:27:06.418Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 18,
+  "sessionCount": 19,
   "sessions": [
     {
       "date": "August 1st - FL #3 (505)",
@@ -544,6 +544,24 @@
           "rawHeader": "AAMC - (Q30) P/S Section Bank, Vol. 1 - 70%",
           "marginPct": null,
           "scorePct": 70,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 19th",
+      "isoDate": "2026-08-19",
+      "weekday": "Wed",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (-2.60%) - 60.00%",
+          "marginPct": -2.6,
+          "scorePct": 60,
           "questions": []
         }
       ]
