@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:28:38.223Z",
+  "generatedAt": "2026-08-19T02:18:51.575Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 18,
@@ -514,9 +514,36 @@
           "type": "other",
           "label": "Other",
           "provider": null,
-          "rawHeader": "BLUEPRINT - (P6/Q35) Critical Analysis and Reasoning Skills (-13.14%) - 66.70%",
+          "rawHeader": "BLUEPRINT - (P2/Q12) Critical Analysis and Reasoning Skills (-13.14%) - 66.70%",
           "marginPct": -13.14,
           "scorePct": 66.7,
+          "questions": []
+        },
+        {
+          "type": "gen_org_chem",
+          "label": "Gen/Org Chem",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q21) Chemistry Q. Pack - 76%",
+          "marginPct": null,
+          "scorePct": 76,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q40) Biology Q. Pack, Vol. 2 - 83%",
+          "marginPct": null,
+          "scorePct": 83,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "AAMC",
+          "rawHeader": "AAMC - (Q30) P/S Section Bank, Vol. 1 - 70%",
+          "marginPct": null,
+          "scorePct": 70,
           "questions": []
         }
       ]
