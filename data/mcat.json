@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T02:15:53.328Z",
+  "generatedAt": "2026-08-22T07:32:44.442Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 21,
@@ -491,15 +491,6 @@
           "marginPct": 7,
           "scorePct": 82,
           "questions": []
-        },
-        {
-          "type": "other",
-          "label": "Other",
-          "provider": "Jack Westin",
-          "rawHeader": "Jack Westin - (DISCRETE/Q50) P/S (+7%) - 82%",
-          "marginPct": 7,
-          "scorePct": 82,
-          "questions": []
         }
       ]
     },
@@ -661,6 +652,15 @@
           "rawHeader": "AAMC - (Q61) B/B Section Bank, Vol. 2 - 82%",
           "marginPct": null,
           "scorePct": 82,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": "Jack Westin",
+          "rawHeader": "Jack Westin - (DISCRETE/Q30) P/S",
+          "marginPct": null,
+          "scorePct": null,
           "questions": []
         }
       ]
