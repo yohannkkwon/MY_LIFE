@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:31:23.066Z",
+  "generatedAt": "2026-08-25T02:18:21.346Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
   "sessionCount": 24,
@@ -728,12 +728,49 @@
       ]
     },
     {
-      "date": "August 24th - FL #5 (XXX)",
+      "date": "August 24th - FL #5 (511)",
       "isoDate": "2026-08-24",
       "weekday": "Mon",
       "isBreak": false,
       "anki": null,
-      "sections": []
+      "sections": [
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Chemical and Physical Foundations of Biological Systems (128) -1",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "Critical Analysis and Reasoning Skills (127)",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Biological and Biochemical Foundations of Living Systems (128) -1",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        },
+        {
+          "type": "bio_biochem",
+          "label": "Bio/Biochem",
+          "provider": null,
+          "rawHeader": "Psychological, Social, and Biological Foundations of Behavior (126) +2",
+          "marginPct": null,
+          "scorePct": null,
+          "questions": []
+        }
+      ]
     }
   ]
 }
