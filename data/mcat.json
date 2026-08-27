@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-27T10:58:03.063Z",
+  "generatedAt": "2026-08-27T22:51:23.224Z",
   "source": "notion",
   "mainPageId": "383ce5fa-d00e-8072-b4fa-d9499e11b8a7",
-  "sessionCount": 3,
+  "sessionCount": 4,
   "sessions": [
     {
       "date": "August 24th - FL #5 (511)",
@@ -77,7 +77,34 @@
           "type": "cars",
           "label": "CARS",
           "provider": "AAMC",
-          "rawHeader": "AAMC CARS Question Pack, Vol. 2",
+          "rawHeader": "AAMC CARS Question Pack, Vol. 2 - 70%",
+          "marginPct": null,
+          "scorePct": 70,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "date": "August 27th",
+      "isoDate": "2026-08-27",
+      "weekday": "Thu",
+      "isBreak": false,
+      "anki": null,
+      "sections": [
+        {
+          "type": "cars",
+          "label": "CARS",
+          "provider": "AAMC",
+          "rawHeader": "AAMC CARS Question Pack, Vol. 2 - 78%",
+          "marginPct": null,
+          "scorePct": 78,
+          "questions": []
+        },
+        {
+          "type": "other",
+          "label": "Other",
+          "provider": null,
+          "rawHeader": "BLUEPRINT C/P - 128",
           "marginPct": null,
           "scorePct": null,
           "questions": []
